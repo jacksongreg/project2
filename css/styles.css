@@ -1,0 +1,50 @@
+.navbar{background: #fff;
+        border-bottom: 2px solid #000;
+        margin-bottom: 13px;
+        padding-left: 0;
+        padding-right: 0;}
+
+.sticky-top {
+    position: sticky;
+    top: 0;
+    z-index: 1020;
+}
+
+.fixed-top {
+
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+
+.container {
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 15px;
+    padding-left: 15px;
+    width: 100%;
+}
+
+body{width:100%;
+     margin:0 auto;
+     font-family: "News Cycle", sans-serif;
+     font-size: 20px;}
+
+h1{font-family: "Libre Franklin", sans-serif;
+    font-weight: bold;
+    font-size:2.5rem; }
+
+h2{font-family: "Libre Franklin", sans-serif;
+    font-weight: bold;
+    font-size:2rem; }
+
+.image-fluid{height: 23rem;}
+
+.text-center{margin:0 auto;}
+
+.float{float: right;
+       padding-left: 0;
+       padding-right: 0;
+       border: solid #dd2163;
+       border-width: 2px;}
